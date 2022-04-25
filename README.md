@@ -8,12 +8,12 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы (ссылку вы найдете в письме на вашей эл. почте).
 
-[7.1	Создание и настройка инфоблоков]
+[7.1	Создание и настройка инфоблоков](https://github.com/netology-code/bpattc-homeworks/blob/main/7.01/Iblocks:%20create%20and%20setup.md)
 
-[7.2	Подготовка инфоблоков для работы контент-менеджера]
+[7.2	Подготовка инфоблоков для работы контент-менеджера](https://github.com/netology-code/bpattc-homeworks/blob/main/7.02/Iblocks:%20content.md)
 
-[7.3	Настройка компонентов вывода данных из инфоблоков (простой и комплексный компонент)]
+[7.3	Настройка компонентов вывода данных из инфоблоков (простой и комплексный компонент)](https://github.com/netology-code/bpattc-homeworks/blob/main/7.03/Iblocks:%20components%20setup.md)
 
-[7.4	Кеширование в инфоблоках]
+[7.4	Кеширование в инфоблоках](https://github.com/netology-code/bpattc-homeworks/blob/main/7.04/Iblocks:%20cache.md)
 
-[7.5	Импорт и экспорт данных в инфоблоках]
+[7.5	Импорт и экспорт данных в инфоблоках](https://github.com/netology-code/bpattc-homeworks/blob/main/7.05/Iblocks:%20import%20and%20export.md)
